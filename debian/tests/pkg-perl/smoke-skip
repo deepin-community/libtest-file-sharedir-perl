@@ -1,0 +1,2 @@
+# can be removed if pkg-perl-tools-autopkgtest skipps 00-compile
+t/00-compile/*
